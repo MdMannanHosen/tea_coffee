@@ -1,0 +1,602 @@
+[
+  {
+    "type": "coffee",
+    "id": 1,
+    "name": "Mocha Magic",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold mocha magic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Darjeeling, India",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/coffee-1.jpg",
+    "roastLevel": "Medium",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "coffee",
+    "id": 2,
+    "name": "Colombian Classic",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Rich and bold colombian classic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/coffee-2.jpg",
+    "roastLevel": "Dark",
+    "grindSize": "Medium"
+  },
+  {
+    "type": "tea",
+    "id": 3,
+    "name": "Nilgiri Sunrise",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Refreshing nilgiri sunrise with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Kenya",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/tea-3.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "90\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 4,
+    "name": "Arabica Gold",
+    "brand": {
+      "name": "Tea Trunk",
+      "info": "Handcrafted teas from India",
+      "logo": "https://example.com/logos/tea-trunk.png"
+    },
+    "description": "Rich and bold arabica gold with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Kenya",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/coffee-4.jpg",
+    "roastLevel": "Dark",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "tea",
+    "id": 5,
+    "name": "Nilgiri Sunrise",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Refreshing nilgiri sunrise with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-5.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "85\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 6,
+    "name": "Mocha Magic",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold mocha magic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Kenya",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/coffee-6.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Medium"
+  },
+  {
+    "type": "coffee",
+    "id": 7,
+    "name": "Colombian Classic",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Rich and bold colombian classic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/coffee-7.jpg",
+    "roastLevel": "Medium",
+    "grindSize": "Medium"
+  },
+  {
+    "type": "coffee",
+    "id": 8,
+    "name": "Kenyan Brew",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold kenyan brew with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/coffee-8.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Coarse"
+  },
+  {
+    "type": "tea",
+    "id": 9,
+    "name": "Nilgiri Sunrise",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Refreshing nilgiri sunrise with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-9.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 10,
+    "name": "Green Zen",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Refreshing green zen with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Kenya",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/tea-10.jpg",
+    "brewTime": "4\u20135 minutes",
+    "temperature": "95\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 11,
+    "name": "Arabica Gold",
+    "brand": {
+      "name": "Tea Trunk",
+      "info": "Handcrafted teas from India",
+      "logo": "https://example.com/logos/tea-trunk.png"
+    },
+    "description": "Rich and bold arabica gold with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/coffee-11.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "coffee",
+    "id": 12,
+    "name": "Kenyan Brew",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold kenyan brew with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/coffee-12.jpg",
+    "roastLevel": "Medium",
+    "grindSize": "Coarse"
+  },
+  {
+    "type": "coffee",
+    "id": 13,
+    "name": "Kenyan Brew",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Rich and bold kenyan brew with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/coffee-13.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "tea",
+    "id": 14,
+    "name": "Darjeeling Delight",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing darjeeling delight with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Assam, India",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/tea-14.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "85\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 15,
+    "name": "Mocha Magic",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold mocha magic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/coffee-15.jpg",
+    "roastLevel": "Medium",
+    "grindSize": "Medium"
+  },
+  {
+    "type": "coffee",
+    "id": 16,
+    "name": "Kenyan Brew",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Rich and bold kenyan brew with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/coffee-16.jpg",
+    "roastLevel": "Medium",
+    "grindSize": "Medium"
+  },
+  {
+    "type": "coffee",
+    "id": 17,
+    "name": "Ethiopian Roast",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Rich and bold ethiopian roast with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "High",
+    "image": "https://example.com/images/coffee-17.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "tea",
+    "id": 18,
+    "name": "Assam Classic",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Refreshing assam classic with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Sikkim, India",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-18.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 19,
+    "name": "Darjeeling Delight",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing darjeeling delight with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Darjeeling, India",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-19.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "90\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 20,
+    "name": "Green Zen",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Refreshing green zen with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-20.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 21,
+    "name": "Darjeeling Delight",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing darjeeling delight with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Assam, India",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-21.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 22,
+    "name": "Assam Classic",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing assam classic with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Sikkim, India",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-22.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "85\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 23,
+    "name": "Mocha Magic",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Rich and bold mocha magic with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/coffee-23.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Fine"
+  },
+  {
+    "type": "tea",
+    "id": 24,
+    "name": "Nilgiri Sunrise",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing nilgiri sunrise with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-24.jpg",
+    "brewTime": "4\u20135 minutes",
+    "temperature": "85\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 25,
+    "name": "Nilgiri Sunrise",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing nilgiri sunrise with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Assam, India",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-25.jpg",
+    "brewTime": "4\u20135 minutes",
+    "temperature": "90\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 26,
+    "name": "Green Zen",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Refreshing green zen with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Sikkim, India",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-26.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "90\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 27,
+    "name": "Green Zen",
+    "brand": {
+      "name": "Golden Tips",
+      "info": "Premium tea makers since 1950",
+      "logo": "https://example.com/logos/golden-tips.png"
+    },
+    "description": "Refreshing green zen with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Sikkim, India",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-27.jpg",
+    "brewTime": "2\u20133 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 28,
+    "name": "Darjeeling Delight",
+    "brand": {
+      "name": "Leaf & Bean",
+      "info": "Crafted for connoisseurs",
+      "logo": "https://example.com/logos/leaf-bean.png"
+    },
+    "description": "Refreshing darjeeling delight with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Colombia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/tea-28.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "95\u00b0C"
+  },
+  {
+    "type": "tea",
+    "id": 29,
+    "name": "Darjeeling Delight",
+    "brand": {
+      "name": "Tea Trunk",
+      "info": "Handcrafted teas from India",
+      "logo": "https://example.com/logos/tea-trunk.png"
+    },
+    "description": "Refreshing darjeeling delight with soothing aroma",
+    "ingredients": [
+      "Tea leaves",
+      "Water"
+    ],
+    "origin": "Darjeeling, India",
+    "caffeineLevel": "Low",
+    "image": "https://example.com/images/tea-29.jpg",
+    "brewTime": "3\u20134 minutes",
+    "temperature": "80\u00b0C"
+  },
+  {
+    "type": "coffee",
+    "id": 30,
+    "name": "Kenyan Brew",
+    "brand": {
+      "name": "Coffee World",
+      "info": "Specialty roasters since 2005",
+      "logo": "https://example.com/logos/coffee-world.png"
+    },
+    "description": "Rich and bold kenyan brew with a smooth finish",
+    "ingredients": [
+      "Coffee beans",
+      "Hot water"
+    ],
+    "origin": "Ethiopia",
+    "caffeineLevel": "Medium",
+    "image": "https://example.com/images/coffee-30.jpg",
+    "roastLevel": "Light",
+    "grindSize": "Fine"
+  }
+]
