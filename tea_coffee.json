@@ -15,7 +15,7 @@
     ],
     "origin": "Darjeeling, India",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/coffee-1.jpg",
+    "image": "https://images.unsplash.com/photo-1626836937739-3037bda1b661?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Medium",
     "grindSize": "Fine"
   },
@@ -35,7 +35,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/coffee-2.jpg",
+    "image": "https://images.pexels.com/photos/15108158/pexels-photo-15108158/free-photo-of-starbucks-thermos.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "roastLevel": "Dark",
     "grindSize": "Medium"
   },
@@ -46,7 +46,7 @@
     "brand": {
       "name": "Leaf & Bean",
       "info": "Crafted for connoisseurs",
-      "logo": "https://example.com/logos/leaf-bean.png"
+      "logo": ""
     },
     "description": "Refreshing nilgiri sunrise with soothing aroma",
     "ingredients": [
@@ -55,7 +55,7 @@
     ],
     "origin": "Kenya",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/tea-3.jpg",
+    "image": "https://images.pexels.com/photos/9942458/pexels-photo-9942458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "brewTime": "3\u20134 minutes",
     "temperature": "90\u00b0C"
   },
@@ -66,7 +66,7 @@
     "brand": {
       "name": "Tea Trunk",
       "info": "Handcrafted teas from India",
-      "logo": "https://example.com/logos/tea-trunk.png"
+      "logo": "https://images.pexels.com/photos/30877449/pexels-photo-30877449/free-photo-of-elegant-coffee-set-on-display-at-cafe.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     "description": "Rich and bold arabica gold with a smooth finish",
     "ingredients": [
@@ -75,7 +75,7 @@
     ],
     "origin": "Kenya",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/coffee-4.jpg",
+    "image": "https://images.unsplash.com/photo-1657315451199-d132f8d17d99?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Dark",
     "grindSize": "Fine"
   },
@@ -86,7 +86,7 @@
     "brand": {
       "name": "Golden Tips",
       "info": "Premium tea makers since 1950",
-      "logo": "https://example.com/logos/golden-tips.png"
+      "logo": ""
     },
     "description": "Refreshing nilgiri sunrise with soothing aroma",
     "ingredients": [
@@ -95,7 +95,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/tea-5.jpg",
+    "image": "https://images.pexels.com/photos/28450982/pexels-photo-28450982/free-photo-of-stylish-cappuccino-on-a-minimalist-desk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "brewTime": "2\u20133 minutes",
     "temperature": "85\u00b0C"
   },
@@ -115,7 +115,7 @@
     ],
     "origin": "Kenya",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/coffee-6.jpg",
+    "image": "https://images.pexels.com/photos/1043361/pexels-photo-1043361.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "roastLevel": "Light",
     "grindSize": "Medium"
   },
@@ -135,7 +135,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/coffee-7.jpg",
+    "image": "https://images.pexels.com/photos/8342293/pexels-photo-8342293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "roastLevel": "Medium",
     "grindSize": "Medium"
   },
@@ -155,7 +155,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/coffee-8.jpg",
+    "image": "https://images.pexels.com/photos/28056744/pexels-photo-28056744/free-photo-of-a-person-holding-a-coffee-cup-in-their-hand.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "roastLevel": "Light",
     "grindSize": "Coarse"
   },
@@ -175,7 +175,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-9.jpg",
+    "image": "https://images.pexels.com/photos/9999920/pexels-photo-9999920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "brewTime": "2\u20133 minutes",
     "temperature": "80\u00b0C"
   },
@@ -195,7 +195,7 @@
     ],
     "origin": "Kenya",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/tea-10.jpg",
+    "image": "",
     "brewTime": "4\u20135 minutes",
     "temperature": "95\u00b0C"
   },
@@ -206,7 +206,7 @@
     "brand": {
       "name": "Tea Trunk",
       "info": "Handcrafted teas from India",
-      "logo": "https://example.com/logos/tea-trunk.png"
+      "logo": "https://images.unsplash.com/photo-1745611239824-914370b4949d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGNvZmZlZSUyMGJyYW5kfGVufDB8fDB8fHww"
     },
     "description": "Rich and bold arabica gold with a smooth finish",
     "ingredients": [
@@ -215,7 +215,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/coffee-11.jpg",
+    "image": "https://images.unsplash.com/photo-1597406138443-dfaf216f4efa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGVhJTIwYnJhbmQlMjBpbWFnZXN8ZW58MHx8MHx8fDA%3D",
     "roastLevel": "Light",
     "grindSize": "Fine"
   },
@@ -235,7 +235,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/coffee-12.jpg",
+    "image": "https://images.unsplash.com/photo-1680373767697-f80801238860?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGNvZmZlZSUyMGJyYW5kfGVufDB8fDB8fHww",
     "roastLevel": "Medium",
     "grindSize": "Coarse"
   },
@@ -255,7 +255,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/coffee-13.jpg",
+    "image": "https://images.unsplash.com/photo-1604845863210-fe8a2314c0b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGNvZmZlZSUyMGJyYW5kfGVufDB8fDB8fHww",
     "roastLevel": "Light",
     "grindSize": "Fine"
   },
@@ -275,7 +275,7 @@
     ],
     "origin": "Assam, India",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/tea-14.jpg",
+    "image": "https://images.unsplash.com/photo-1597916375079-1201154a650c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVhJTIwYnJhbmQlMjBpbWFnZXN8ZW58MHx8MHx8fDA%3D",
     "brewTime": "3\u20134 minutes",
     "temperature": "85\u00b0C"
   },
@@ -295,7 +295,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/coffee-15.jpg",
+    "image": "",
     "roastLevel": "Medium",
     "grindSize": "Medium"
   },
@@ -306,7 +306,7 @@
     "brand": {
       "name": "Leaf & Bean",
       "info": "Crafted for connoisseurs",
-      "logo": "https://example.com/logos/leaf-bean.png"
+      "logo": "https://images.unsplash.com/photo-1739245594869-3e2372c2dbdd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIwfHxjb2ZmZWUlMjBicmFuZHxlbnwwfHwwfHx8MA%3D%3D"
     },
     "description": "Rich and bold kenyan brew with a smooth finish",
     "ingredients": [
@@ -315,7 +315,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/coffee-16.jpg",
+    "image": "https://images.unsplash.com/photo-1710134731418-512093fff878?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Medium",
     "grindSize": "Medium"
   },
@@ -335,7 +335,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "High",
-    "image": "https://example.com/images/coffee-17.jpg",
+    "image": "https://images.unsplash.com/photo-1607980034662-523e57cb3337?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Light",
     "grindSize": "Fine"
   },
@@ -355,7 +355,7 @@
     ],
     "origin": "Sikkim, India",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/tea-18.jpg",
+    "image": "https://images.unsplash.com/photo-1748390101138-79cdaf434020?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRlYSUyMGJyYW5kJTIwaW1hZ2VzfGVufDB8fDB8fHww",
     "brewTime": "3\u20134 minutes",
     "temperature": "80\u00b0C"
   },
@@ -375,7 +375,7 @@
     ],
     "origin": "Darjeeling, India",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-19.jpg",
+    "image": "https://images.unsplash.com/photo-1733287041570-0d28af17bf83?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHRlYSUyMGJyYW5kJTIwaW1hZ2VzfGVufDB8fDB8fHww",
     "brewTime": "2\u20133 minutes",
     "temperature": "90\u00b0C"
   },
@@ -415,7 +415,7 @@
     ],
     "origin": "Assam, India",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-21.jpg",
+    "image": "https://images.unsplash.com/photo-1640355440666-fce1efeef912?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHRlYSUyMGJyYW5kJTIwaW1hZ2VzfGVufDB8fDB8fHww",
     "brewTime": "3\u20134 minutes",
     "temperature": "80\u00b0C"
   },
@@ -435,7 +435,7 @@
     ],
     "origin": "Sikkim, India",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-22.jpg",
+    "image": "https://images.unsplash.com/photo-1606695846860-4ba8746ff7bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fHRlYSUyMGJyYW5kJTIwaW1hZ2VzfGVufDB8fDB8fHww",
     "brewTime": "2\u20133 minutes",
     "temperature": "85\u00b0C"
   },
@@ -455,7 +455,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/coffee-23.jpg",
+    "image": "https://images.unsplash.com/photo-1520251096133-9a1b83041b11?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Light",
     "grindSize": "Fine"
   },
@@ -475,7 +475,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-24.jpg",
+    "image": "https://images.unsplash.com/photo-1650211579019-22c2ded138d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fHRlYSUyMGJyYW5kJTIwaW1hZ2VzfGVufDB8fDB8fHww",
     "brewTime": "4\u20135 minutes",
     "temperature": "85\u00b0C"
   },
@@ -495,7 +495,7 @@
     ],
     "origin": "Assam, India",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/tea-25.jpg",
+    "image": "https://images.unsplash.com/photo-1658215718581-b2f14c51d8a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc5fHx0ZWElMjBicmFuZCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
     "brewTime": "4\u20135 minutes",
     "temperature": "90\u00b0C"
   },
@@ -515,7 +515,7 @@
     ],
     "origin": "Sikkim, India",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-26.jpg",
+    "image": "https://images.unsplash.com/photo-1667670996940-06204393abcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg3fHx0ZWElMjBicmFuZCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
     "brewTime": "2\u20133 minutes",
     "temperature": "90\u00b0C"
   },
@@ -535,7 +535,7 @@
     ],
     "origin": "Sikkim, India",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/tea-27.jpg",
+    "image": "https://images.unsplash.com/photo-1571597655079-cdc075c7cc15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzM5fHx0ZWElMjBicmFuZCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
     "brewTime": "2\u20133 minutes",
     "temperature": "80\u00b0C"
   },
@@ -555,7 +555,7 @@
     ],
     "origin": "Colombia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/tea-28.jpg",
+    "image": "https://images.unsplash.com/photo-1560750133-107decf755ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzg0fHx0ZWElMjBicmFuZCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
     "brewTime": "3\u20134 minutes",
     "temperature": "95\u00b0C"
   },
@@ -575,7 +575,7 @@
     ],
     "origin": "Darjeeling, India",
     "caffeineLevel": "Low",
-    "image": "https://example.com/images/tea-29.jpg",
+    "image": "https://images.unsplash.com/photo-1646602482554-6543198c539a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDE2fHx0ZWElMjBicmFuZCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
     "brewTime": "3\u20134 minutes",
     "temperature": "80\u00b0C"
   },
@@ -595,7 +595,7 @@
     ],
     "origin": "Ethiopia",
     "caffeineLevel": "Medium",
-    "image": "https://example.com/images/coffee-30.jpg",
+    "image": "https://images.unsplash.com/photo-1566181512663-87e30b008c98?q=80&w=1625&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "roastLevel": "Light",
     "grindSize": "Fine"
   }
